@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Wpm.Management.Api.DataAccess;
 // RJS changed
+// Edited again after enabling Workflows, disabled by default since repo was cloned
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
